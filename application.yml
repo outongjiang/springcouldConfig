@@ -1,4 +1,11 @@
 spring:
+  profiles: 
+    active: name
+spring:
   profiles: name 
   application:
     name: outongjiang
+spring:
+  profiles: id 
+  application:
+    name: 1212
