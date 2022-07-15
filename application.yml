@@ -1,5 +1,4 @@
 spring:
-  profiles:
-    active: name 
+  profiles: name 
   application:
     name: outongjiang
