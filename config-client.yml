@@ -6,4 +6,4 @@ myname: outongjiang
 spring:
   profiles: dev2
 server:
-  port:8111
+  port: 8111
