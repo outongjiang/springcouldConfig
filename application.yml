@@ -1,13 +1,9 @@
 spring:
   profiles:
-    active: name1
+    active: test
 ---
 spring:
-  profiles: name1
+  profiles: test
   application:
-    name: outongjiang
+    name: test下的application name
 ---
-spring:
-  profiles: id1
-  application:
-    name: 1212
