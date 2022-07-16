@@ -1,8 +1,9 @@
 spring:
   profiles: dev1
-myname: otj
 
-myname: outongjiang
+myname: otj
 ---
+myname: outongjiang
+
 spring:
   profiles: dev2
